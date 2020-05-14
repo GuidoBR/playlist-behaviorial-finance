@@ -99,17 +99,6 @@
     "tags": ["behavioral finance"]
   },
   {
-    "title": "Behavioral Finance: Aula 9",
-    "presenter": "Bruno Giovannetti",
-    "year": 2020,
-    "venue": "Webcast",
-    "slides": "",
-    "videos": {
-      "youtube": "https://www.youtube.com/watch?v=ApJhxSRZf0g"
-    },
-    "tags": ["behavioral finance"]
-  },
-  {
     "title": "Behavioral Finance: Aula 10",
     "presenter": "Bruno Giovannetti",
     "year": 2020,
@@ -183,17 +172,6 @@
     "slides": "",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=aQ4JcD2WQ-A"
-    },
-    "tags": ["behavioral finance"]
-  },
-  {
-    "title": "Behavioral Finance: Aula 17",
-    "presenter": "Bruno Giovannetti",
-    "year": 2020,
-    "venue": "Webcast",
-    "slides": "",
-    "videos": {
-      "youtube": "https://www.youtube.com/watch?v=ApJhxSRZf0g"
     },
     "tags": ["behavioral finance"]
   }
