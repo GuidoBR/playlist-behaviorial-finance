@@ -196,5 +196,16 @@
       "youtube": "https://www.youtube.com/watch?v=LNIBZtKEcms"
     },
     "tags": ["behavioral finance"]
+  },
+  {
+    "title": "Behavioral Finance: Aula 19",
+    "presenter": "Bruno Giovannetti",
+    "year": 2020,
+    "venue": "Webcast",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=7a1lf815z0A"
+    },
+    "tags": ["behavioral finance"]
   }
 ]
